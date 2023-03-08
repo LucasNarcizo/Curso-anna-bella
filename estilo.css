@@ -1,0 +1,67 @@
+/*Index1*/
+body{
+    background:#d2d2c1 url([imagens/fundo.png]);
+
+}
+
+#principal{
+   
+    border-color: red;
+    width:902px;
+    padding-left: 360px;
+    text-align: center;
+    
+}
+
+
+
+#menu{
+    background-color: #c5c5b2;
+    padding: 27px;
+
+}
+
+#descricao{
+    background-color: #e8e8d9 ;
+    padding: 20px;
+}
+
+.obrigada{
+    background-color: #e8e8d9;
+    text-align: center;
+}
+
+.fotos{
+    border: 10px solid #c3c3ae;
+}
+
+   
+.centralizar{
+    padding: 20px;
+    text-align: center;
+    
+}
+
+a{
+    color: #4b566a;
+    text-decoration: none;
+    font-weight: bold;
+
+}
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*Index2*/
